@@ -1241,14 +1241,14 @@ body {
 
 @media only screen and (max-width:26.56em) {
     .features-compartment__item p {
-        padding-left: 0;
+        padding-left: 2rem;
         font-size: 1rem
     }
 }
 
 @media only screen and (max-width:20em) {
     .features-compartment__item p {
-        padding-left: 0;
+        padding-left: 2rem;
         font-size: 1rem
     }
 }
@@ -1416,7 +1416,7 @@ body {
 }
 
 .career {
-    background-color: #fffbf5;
+    background-color: #fcf3e6;
     padding: 4rem 8rem
 }
 
@@ -1529,7 +1529,7 @@ body {
 }
 
 .career-container {
-    background-color: #fffbf5
+    background-color: #fcf3e6;
 }
 
 .career-container h1 {
@@ -1791,7 +1791,7 @@ video {
 }
 
 .form {
-    background-color: #fffbf5;
+    background-color: #f5dfbd;
     padding: 5rem 6rem 2rem
 }
 
