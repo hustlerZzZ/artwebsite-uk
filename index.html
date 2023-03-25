@@ -389,7 +389,7 @@
             e.preventDefault()
             fetch(scriptURL, { method: 'POST', body: new FormData(form) })
                 .then(response => {
-                    window.open("a-uk.pdf");
+                    window.open("uk.pdf");
                     alert("Form Successfully submited!!")
                 })
                 .catch(error => console.error('Error!', error.message))
